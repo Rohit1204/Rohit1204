@@ -1,6 +1,8 @@
 ### Hello ,welcome to my profile<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rohit1204)
 [![Website Badge](https://img.shields.io/badge/Website-333333?style=flat-square&logo=google-chrome&logoColor=white)](https://rohit1204.github.io/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-333333?style=flat-square&logo=Facebook&logoColor=white)](https://fb.me/rohitahuja)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-333333?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/developer_2.0/)
 
 <!--
 **Rohit1204/Rohit1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
