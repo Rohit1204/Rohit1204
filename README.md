@@ -16,6 +16,9 @@
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat-square&logo=django&logoColor=ffffff)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=HTML5&logoColor=ffffff)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=CSS3&logoColor=ffffff)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat-square&logo=bootstrap&logoColor=ffffff)\
+![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git&logoColor=ffffff)&nbsp;
+![Github](https://img.shields.io/badge/-Github-333333?style=flat-square&logo=github&logoColor=ffffff)&nbsp;
 
 <!--
 **Rohit1204/Rohit1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
