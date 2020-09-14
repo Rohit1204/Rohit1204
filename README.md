@@ -6,6 +6,10 @@
 
 ##### This is Rohit Ahuja a Fullstack Developer Software Developer and Beginner In Data Science. I am a developer having a problem solving approach and interested in problems dealing with real time solutions.I am enthaustic to work on new and emerging projects that can bring change in this world.
 
+### Tech Stack 🛠 &nbsp;
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python&logoColor=ffffff)&nbsp;
+
 <!--
 **Rohit1204/Rohit1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
