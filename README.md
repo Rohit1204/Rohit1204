@@ -9,6 +9,8 @@
 ### Tech Stack 🛠 &nbsp;
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python&logoColor=ffffff)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript&logoColor=ffffff)&nbsp;
+![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=java&logoColor=ffffff)&nbsp;
 
 <!--
 **Rohit1204/Rohit1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
