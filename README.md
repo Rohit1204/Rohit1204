@@ -21,7 +21,14 @@
 ![Github](https://img.shields.io/badge/-Github-333333?style=flat-square&logo=github&logoColor=ffffff)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat-square&logo=windows&logoColor=ffffff)&nbsp;
 ![Chrome](https://img.shields.io/badge/-Chrome-333333?style=flat-square&logo=google-chrome&logoColor=ffffff)\
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style%3Dflat-square%26logo=microsoft-sql-server&logoColor%3Dffffff)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style%3Dflat-square%26logo=microsoft-sql-server&logoColor=3Dffffff)&nbsp;
+
+
+
+###  GitHub Stats &#x1f4c8;
+
+<a href="https://github.com/Rohit1204/Rohit1204">
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=Rohit1204&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=333333&icon_color=757575&bg_color=ffffff" alt="Rohit Ahuja GitHub Stats" />
 
 <!--
 **Rohit1204/Rohit1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
