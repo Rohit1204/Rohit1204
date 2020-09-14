@@ -21,7 +21,7 @@
 ![Github](https://img.shields.io/badge/-Github-333333?style=flat-square&logo=github&logoColor=ffffff)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat-square&logo=windows&logoColor=ffffff)&nbsp;
 ![Chrome](https://img.shields.io/badge/-Chrome-333333?style=flat-square&logo=google-chrome&logoColor=ffffff)\
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style%3Dflat-square%26logo=SQL&logoColor%3Dffffff)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style%3Dflat-square%26logo=microsoft-sql-server&logoColor%3Dffffff)&nbsp;
 
 <!--
 **Rohit1204/Rohit1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
