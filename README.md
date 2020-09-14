@@ -29,6 +29,7 @@
 
 <a href="https://github.com/Rohit1204/Rohit1204">
   <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=Rohit1204&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=333333&icon_color=757575&bg_color=ffffff" alt="Rohit Ahuja GitHub Stats" />
+  </a>
 
 <!--
 **Rohit1204/Rohit1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
