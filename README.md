@@ -35,6 +35,14 @@
   <img align="center" width="44%"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rohit1204&line_height=27&layout=compact&theme=radical&title_color=000000&text_color=000000&icon_color=757575&bg_color=ffffff" />
 </a>
 
+
+###  Profile Stats &#x1f4c8;
+
+<p>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/visits/Rohit1204/Rohit1204?style=flat-square&color=black&logo=github">
+  </a>
+
 <!--
 **Rohit1204/Rohit1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
