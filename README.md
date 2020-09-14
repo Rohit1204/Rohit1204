@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rohit1204)
+[![Website Badge](https://img.shields.io/badge/Website-333333?style=flat-square&logo=google-chrome&logoColor=white)](https://rohit1204.github.io/)
 
 <!--
 **Rohit1204/Rohit1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
