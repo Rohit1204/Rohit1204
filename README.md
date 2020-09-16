@@ -43,6 +43,9 @@
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/visits/Rohit1204/Rohit1204?style=flat-square&color=black&logo=github">
   </a>
+     <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/commits/monthly/Rohit1204?style=flat-square&color=black&logo=github">
+  </a>
 
 <!--
 **Rohit1204/Rohit1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
