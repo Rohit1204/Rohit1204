@@ -23,7 +23,8 @@
 ![Chrome](https://img.shields.io/badge/-Chrome-333333?style=flat-square&logo=google-chrome&logoColor=ffffff)\
 ![SQL](https://img.shields.io/badge/-SQL-333333?style%3Dflat-square%26logo=sql-server&logoColor=3Dffffff)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=ffffff)&nbsp;
-
+![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat-square&logo=heroku&logoColor=ffffff)\
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat-square&logo=postman&logoColor=ffffff)&nbsp;
 
 
 ###  GitHub Stats &#x1f4c8;
@@ -42,6 +43,9 @@
 <p>
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/visits/Rohit1204/Rohit1204?style=flat-square&color=black&logo=github">
+  </a>
+    <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/years/Rohit1204S?style=flat-square&color=black&logo=github">
   </a>
      <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/commits/monthly/Rohit1204?style=flat-square&color=black&logo=github">
