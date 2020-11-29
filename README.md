@@ -27,7 +27,7 @@
 ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat-square&logo=pycharm&logoColor=ffffff)&nbsp;
 ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat-square&logo=heroku&logoColor=ffffff)\
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat-square&logo=postman&logoColor=ffffff)&nbsp;
-![Amazon Web Service](https://img.shields.io/badge/-Amazon%20Web%20Service-333333?style=flat-square&logo=AWS&logoColor=ffffff)&nbsp;
+![Amazon Web Service](https://img.shields.io/badge/-Amazon%20Web%20Service-333333?style=flat-square&logo=aws&logoColor=ffffff)&nbsp;
 
 ###  GitHub Stats &#x1f4c8;
 
@@ -53,8 +53,6 @@
     <img src="https://badges.pufler.dev/commits/monthly/Rohit1204?style=flat-square&color=black&logo=github">
   </a>
   
-  ### How to reach me &#x1f4c8;
-  💬 https://www.linkedin.com/in/rohit1204
 
 <!--
 **Rohit1204/Rohit1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
