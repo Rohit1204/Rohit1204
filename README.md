@@ -27,7 +27,7 @@
 ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat-square&logo=pycharm&logoColor=ffffff)&nbsp;
 ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat-square&logo=heroku&logoColor=ffffff)\
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat-square&logo=postman&logoColor=ffffff)&nbsp;
-
+![Amazon Web Service](https://img.shields.io/badge/-Amazon%20Web%20Service-333333?style=flat-square&logo=AWS&logoColor=ffffff)&nbsp;
 
 ###  GitHub Stats &#x1f4c8;
 
