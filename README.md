@@ -4,7 +4,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-333333?style=flat-square&logo=Facebook&logoColor=white)](https://fb.me/rohit.ahuja04)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-333333?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/developer_2.0/)
 
-##### This is Rohit Ahuja a Fullstack Developer Software Developer and Beginner In Data Science. I am a developer having a problem solving approach and interested in problems dealing with real time solutions.I am enthaustic to work on new and emerging projects that can bring change in this world.
+##### This is Rohit Ahuja a experience Fullstack Developer Software Developer. I am a developer having a problem solving approach and interested in problems dealing with real time solutions.I am enthaustic to work on new and emerging projects that can bring change in this world.
 
 ### Tech Stack 🛠 &nbsp;
 
